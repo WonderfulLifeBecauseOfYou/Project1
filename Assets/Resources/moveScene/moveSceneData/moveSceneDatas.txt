@@ -1,0 +1,3 @@
+{"speed":3.0,"Health":88.19999694824219,"playerX":-31.440303802490236,"playerY":-9.80876636505127,"playerZ":0.0,"dataName":"","saveTime":"","addr":"冈特古村","level":1,"state":"正常","Coins":0.0,"maxHealth":200.0,"bulletTime":3.0,"skillTime":5.0,"attackTime":0.3499999940395355,"atk1":58.625,"atk2":58.625,"def1":20.0,"def2":20.0,"magicValues":10.0,"EnduranceValues":10.0,"smart":1.0,"belief":1.0}
+
+

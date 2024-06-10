@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/3D\u6E38\u620F/Scenes/start.unity"
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: "Assets/3D\u6E38\u620F/Scenes/menu.unity"
+    guid: 993d9dbd9afd8e241a1832a3036b9919
+  - enabled: 1
+    path: "Assets/3D\u6E38\u620F/Scenes/room.unity"
+    guid: 396f9098ea46ff34f8f77ee83604541f
+  - enabled: 1
+    path: "Assets/3D\u6E38\u620F/Scenes/game room.unity"
+    guid: 3e4df9bd6c3607b409192a7b4506e7f8
+  - enabled: 1
+    path: "Assets/2D\u6E38\u620F/Scenes/\u8857\u673A\u6E38\u620F\u5385-\u5927\u4E16\u754C.unity"
+    guid: e0bcc7e2c84a8d542ae1f27340e45470
+  - enabled: 1
+    path: "Assets/2D\u6E38\u620F/Scenes/\u738B\u540E\u82B1\u56ED.unity"
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: "Assets/2D\u6E38\u620F/Scenes/\u7AE5\u8BDD\u68EE\u6797.unity"
+    guid: f631a73536fe58e4c983d251206d2d44
+  - enabled: 1
+    path: "Assets/2D\u6E38\u620F/Scenes/\u6751\u957F\u5BB6.unity"
+    guid: 569942e00115d7d489eb6dc063087b95
+  - enabled: 1
+    path: "Assets/2D\u6E38\u620F/Scenes/\u9910\u5385.unity"
+    guid: cab6b94a1413d9f47ae0016af282e0b8
+  - enabled: 1
+    path: "Assets/2D\u6E38\u620F/Scenes/shop.unity"
+    guid: 6be1afec3bdc1054aa163ba6d222657f
+  - enabled: 1
+    path: "Assets/2D\u6E38\u620F/Scenes/\u9732\u4E1D\u7684\u8C6A\u5B85.unity"
+    guid: 11f8f929f04da734c86ec63369dc405a
+  - enabled: 1
+    path: "Assets/2D\u6E38\u620F/Scenes/\u4E95\u5E95.unity"
+    guid: 45b0e7c390a01684a9ba8e4a5cf5ed5c
+  - enabled: 1
+    path: "Assets/2D\u6E38\u620F/Scenes/\u68EE\u6797\u5C94\u8DEF.unity"
+    guid: eec50b66dc8e2b44493afc52eeef9898
+  - enabled: 1
+    path: "Assets/2D\u6E38\u620F/Scenes/\u68EE\u6797\u672B\u68A2.unity"
+    guid: cb7a22f423ae7d547a0eb1ce952a76ae
+  - enabled: 1
+    path: "Assets/2D\u6E38\u620F/Scenes/\u6708\u7259\u6E7E.unity"
+    guid: 56ca196e7624ca7418e31839697b2ddc
+  - enabled: 1
+    path: "Assets/2D\u6E38\u620F/Scenes/\u6D77\u6E7E\u5CE1\u8C37.unity"
+    guid: 5d9f7aa3681700949bde52ddc0ec7420
+  - enabled: 1
+    path: "Assets/2D\u6E38\u620F/Scenes/\u5188\u7279\u53E4\u6751.unity"
+    guid: 2565f5639d95d6043a58972b73dfa9bb
+  - enabled: 1
+    path: "Assets/2D\u6E38\u620F/Scenes/\u5188\u7279\u5C0F\u9547.unity"
+    guid: 8633cd8ecdf9e9f46a4093ae2ad5477f
+  - enabled: 1
+    path: "Assets/2D\u6E38\u620F/Scenes/\u5C0F\u9547\u5927\u9053.unity"
+    guid: 6fff64f4e6ba31a4d9f4fff7edd86be0
+  - enabled: 1
+    path: "Assets/2D\u6E38\u620F/Scenes/\u5B66\u9662\u95E8\u53E3.unity"
+    guid: 38348a7e59562a144990e301621e4c3f
+  - enabled: 1
+    path: "Assets/2D\u6E38\u620F/Scenes/\u6D77\u683C\u5C0F\u5C4B.unity"
+    guid: 8e7de59f0c83b9d4fbc996dde09e936a
+  - enabled: 1
+    path: "Assets/2D\u6E38\u620F/Scenes/\u732B\u5934\u9E70\u68EE\u6797.unity"
+    guid: f057c2b558f634746b792e10327dc7a4
+  - enabled: 1
+    path: "Assets/2D\u6E38\u620F/Scenes/\u732B\u5934\u9E70\u90E8\u843D.unity"
+    guid: 06c3998c292d8014e889657fb0a410b1
+  - enabled: 1
+    path: "Assets/2D\u6E38\u620F/Scenes/\u6D77\u683C\u90E8\u843D.unity"
+    guid: 154076022f878de49a7fabb5712103fd
+  - enabled: 1
+    path: "Assets/2D\u6E38\u620F/Scenes/\u68A6\u5E7B\u5C9B.unity"
+    guid: e373cb631b5746040a2431817885859d
+  - enabled: 1
+    path: "Assets/2D\u6E38\u620F/Scenes/\u4E16\u754C\u4E4B\u6865.unity"
+    guid: 29754eb6d9d4cd947b10c251bcb034b0
+  - enabled: 1
+    path: "Assets/2D\u6E38\u620F/Scenes/\u5929\u4F7F\u7684\u5E86\u5178.unity"
+    guid: 226024fd630591c46b609e85cd13f036
+  - enabled: 1
+    path: "Assets/2D\u6E38\u620F/Scenes/\u66AE\u8272\u68EE\u6797.unity"
+    guid: 45e5e2416d654b246bea37db166480c4
+  - enabled: 1
+    path: "Assets/2D\u6E38\u620F/Scenes/\u66AE\u8272\u68EE\u6797 \u6DF1\u5904.unity"
+    guid: b4fe3dc10418757469a881e4c7ec6add
+  - enabled: 1
+    path: "Assets/\u5BB6\u56ED\u7CFB\u7EDF/HomeSystem.unity"
+    guid: 626fec8357387c2449fb091cdcc2a781
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 398d945149746a94899cafbfeddf8c9f,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a422e2a2e6c83184e9b23d6413331359,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 07a9ee58a0c074c428efff65c5a4f857,
+      type: 2}

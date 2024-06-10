@@ -1,0 +1,4 @@
+repository "3D world@wechat_os_qy055338nqumdzqm72plziun8@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

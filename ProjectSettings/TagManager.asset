@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ignite
+  - Ground
+  - Attack
+  - buttle
+  - NPC
+  - SAVE
+  - cinemachine
+  - UI
+  - SHOP
+  - Enemy
+  - EnemyAttack
+  - Skills
+  - Magics
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - sign
+  - Water
+  - UI
+  - Player
+  - NPC
+  - Enemy
+  - bullet
+  - tile1
+  - tile2
+  - Attack
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Layer 1
+  - Layer 2
+  - Layer 3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3306133027
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Layer 1
+    uniqueID: 4136885769
+    locked: 0
+  - name: Layer 2
+    uniqueID: 3007286767
+    locked: 0
+  - name: Layer 3
+    uniqueID: 1836748429
+    locked: 0

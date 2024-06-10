@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6134800385065969558
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 100000, guid: aaed3556cbfd5f046ac47cdd6de17791, type: 3}
+      propertyPath: m_Name
+      value: Dark Knight
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: aaed3556cbfd5f046ac47cdd6de17791, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: aaed3556cbfd5f046ac47cdd6de17791, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.85858
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: aaed3556cbfd5f046ac47cdd6de17791, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.85858
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: aaed3556cbfd5f046ac47cdd6de17791, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.85858
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: aaed3556cbfd5f046ac47cdd6de17791, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -320.67
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: aaed3556cbfd5f046ac47cdd6de17791, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: aaed3556cbfd5f046ac47cdd6de17791, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.979
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: aaed3556cbfd5f046ac47cdd6de17791, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: aaed3556cbfd5f046ac47cdd6de17791, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: aaed3556cbfd5f046ac47cdd6de17791, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: aaed3556cbfd5f046ac47cdd6de17791, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: aaed3556cbfd5f046ac47cdd6de17791, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: aaed3556cbfd5f046ac47cdd6de17791, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: aaed3556cbfd5f046ac47cdd6de17791, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400038, guid: aaed3556cbfd5f046ac47cdd6de17791, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.657
+      objectReference: {fileID: 0}
+    - target: {fileID: 400038, guid: aaed3556cbfd5f046ac47cdd6de17791, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.216
+      objectReference: {fileID: 0}
+    - target: {fileID: 400038, guid: aaed3556cbfd5f046ac47cdd6de17791, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: aaed3556cbfd5f046ac47cdd6de17791, type: 3}
+      propertyPath: m_Avatar
+      value: 
+      objectReference: {fileID: 9000000, guid: aaed3556cbfd5f046ac47cdd6de17791, type: 3}
+    - target: {fileID: 9500000, guid: aaed3556cbfd5f046ac47cdd6de17791, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: aaed3556cbfd5f046ac47cdd6de17791, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 1cd999f91c421be498a9c0f15d40c347, type: 2}
+    - target: {fileID: 9500000, guid: aaed3556cbfd5f046ac47cdd6de17791, type: 3}
+      propertyPath: m_CullingMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: aaed3556cbfd5f046ac47cdd6de17791, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: aaed3556cbfd5f046ac47cdd6de17791,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5712961885732184890}
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: aaed3556cbfd5f046ac47cdd6de17791,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2382125038256587806}
+  m_SourcePrefab: {fileID: 100100000, guid: aaed3556cbfd5f046ac47cdd6de17791, type: 3}
+--- !u!1 &6134800385065935158 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: aaed3556cbfd5f046ac47cdd6de17791,
+    type: 3}
+  m_PrefabInstance: {fileID: 6134800385065969558}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &5712961885732184890
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6134800385065935158}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10822635455140c4183dcba2cea8d395, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 2
+  Gravity: 9.8
+  velocity: {x: 0, y: 0, z: 0}
+  jumpHeight: 0
+  m: {x: 0, y: 0, z: 0}
+  FollowedCamera: {fileID: 0}
+  _photocamera: {fileID: 0}
+--- !u!143 &2382125038256587806
+CharacterController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6134800385065935158}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Height: 2
+  m_Radius: 0.5
+  m_SlopeLimit: 45
+  m_StepOffset: 0
+  m_SkinWidth: 0.0001
+  m_MinMoveDistance: 0.001
+  m_Center: {x: 0, y: 0, z: 0}
